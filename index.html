@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Bolt ~ WebDesignCrowd</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
+    
+    <!-- Raleway Font -->
+    <link href='http://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
+        
+    <!-- Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <div id="navbar" class="navbar navbar-inverse"> 
+     <div class="container">   
+       <div class="navbar-header">
+         <a class="navbar-brand" href="index.html"></a>
+         <a class="icon" data-toggle="collapse" data-target="#menu" href="#"><i class="icon-align-justify pull-right"></i></a>
+         <a class="icon" data-toggle="collapse" data-target="#heart" href="#"><i class="icon-heart pull-right"></i></a>
+         <a class="icon" data-toggle="collapse" data-target="#search" href="#"><i class="icon-search pull-right"></i></a>
+        <span class="tagline">responsive. &nbsp;modern. &nbsp;clean.</span></div>   
+        
+        <div id="heart" class="collapse dropdown">
+          <div class="arrow-up"></div>
+          <ul class="menu">
+            <li><a href="#">Twitter</a></li>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">LinkedIn</a></li>
+            <li><a href="#">Github</a></li>
+            <li><a href="#">Pinterest</a></li>
+          </ul>
+        </div>
+        <div id="menu" class="collapse dropdown">
+          <div class="arrow-up"></div>
+          <ul class="menu">
+            <li><a href="index.html#contact">Contact Us</a></li>
+            <li><a href="team.html">Meet the Team</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="features.html">Features</a></li>
+            <li><a href="blog.html">Blog</a></li>
+          </ul>
+        </div>
+        <form id="search" class="form-inline collapse" role="form">
+          <div class="arrow-up"></div>
+          <div class="form-group">
+            <input type="text" class="form-control" id="exampleSearch" placeholder="enter search term.">
+          </div>
+        </form>
+      </div>
+    </div>    
+    
+    <!-- Home Section -->
+      <!-- Modal For Gallery -->
+      <div class="modal fade" id="modal1" tabindex="-1" role="dialog">
+        <div class="wrapper">
+          <img data-dismiss="modal" class="img-responsive icon" src="img/icon-clock.png" alt="">
+          <h2 class="modal-title"><a href="https://www.iconfinder.com/search/?q=iconset%3Aflat-ui-free">Flat UI Icons</a></h2>
+        </div><!-- /.content -->      
+      </div><!-- /.modal -->
+      <div class="modal fade" id="modal2" tabindex="-1" role="dialog">
+        <div class="wrapper">
+          <img data-dismiss="modal" class="img-responsive icon" src="img/icon-pencil.png" alt="">
+          <h2 class="modal-title"><a href="https://www.iconfinder.com/search/?q=iconset%3Aflat-ui-free">Flat UI Icons</a></h2>
+        </div><!-- /.content -->      
+      </div><!-- /.modal -->
+      <div class="modal fade" id="modal3" tabindex="-1" role="dialog">
+        <div class="wrapper">
+          <img data-dismiss="modal" class="img-responsive icon" src="img/icon-book.png" alt="">
+          <h2 class="modal-title"><a href="https://www.iconfinder.com/search/?q=iconset%3Aflat-ui-free">Flat UI Icons</a></h2>
+        </div><!-- /.content -->      
+      </div><!-- /.modal -->
+
+      
+    <div id="home" class="section welcome">
+      
+      <div class="container">
+        <div class="content">
+    			<!-- FILTER CONTROLS -->
+
+    			<div class="controls">	
+  				  <a href="#" class="filter active" data-filter="icons">Icons</a>
+  				  <a href="#" class="filter" data-filter="web">Web Design</a>
+  				  <a href="#" class="filter" data-filter="illustration">Illustrations</a>
+  				  <a href="#" class="filter" data-filter="print">Print</a>
+  				  <a href="#" class="filter" data-filter="logos">Logos</a>
+  				  <span class="stretch"></span>
+    			</div>
+
+    		</div>
+    		<div class="gallery row">
+    		  <ul>
+    		    <li class="col-md-4 col-sm-4 col-xs-12 mix icons" data-cat="icons">
+                <a data-toggle="modal" href="#modal1" class="mix-cover gray">
+                  <span class="valign"></span>
+                  <img src="img/icon-clock.png" alt="icon clock">
+        		      <span class="overlay"><span class="valign"></span><i class="icon-search"></i></span>
+                </a>                
+      		  </li>
+    		    <li class="col-md-4 col-sm-4 col-xs-12 mix icons" data-cat="icons">
+                <a href="colored-pencils.html" class="mix-cover gray">
+                  <span class="valign"></span>
+                  <img src="img/icon-pencil.png" alt="icon pencil">
+        		      <div class="overlay"><span class="valign"></span><i class="icon-link"></i></div>
+                </a>
+            </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix icons" data-cat="icons">
+                <a data-toggle="modal" href="#modal3" class="mix-cover gray">
+                  <span class="valign"></span>
+                  <img src="img/icon-book.png" alt="icon book">
+        		      <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+                </a>
+            </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix web" data-cat="web">
+                <a href="#" class="mix-cover green">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="sintel snowscape">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix web" data-cat="web">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix web" data-cat="web">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix illustration" data-cat="illustration">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix illustration" data-cat="illustration">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix illustration" data-cat="illustration">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix print" data-cat="print">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix print" data-cat="print">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix print" data-cat="print">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix logos" data-cat="logos">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix logos" data-cat="logos">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  <li class="col-md-4 col-sm-4 col-xs-12 mix logos" data-cat="logos">
+                <a href="#" class="mix-cover">
+                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
+                  <div class="overlay"><span class="valign"></span><i class="icon-search"></i></div>
+        		    </a>
+      		  </li>
+      		  
+      		  
+    		  </ul>
+        </div>        
+      </div>
+      
+    </div><!-- /.container -->
+    
+    <!-- Services Section -->
+    <div id="services" class="section">
+      <div class="container">
+        
+        <div class="content">
+          <div class="row">
+            <div class="col-md-5 col-sm-5 col-xs-12">
+              <h1>Responsive.</h1>
+              <p>Bolt is responsive meaning it looks great on all devices. It automatically adjusts to the browser size so everything is readable on the smallest mobile phone to the largest desktop computer.</p>
+            </div>
+            <div class="col-md-7 col-sm-7 col-xs-12">
+              <img class="slide-in right" src="img/bolt-all-devices.png" alt="bolt all devices">
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12 pull-right">
+              <h1>Crisp Graphics. </h1>
+              <p>This theme is ready for high resolution displays on all kinds of retina display devices. Everything will look crisp and clean no matter which device you are browsing with.</p>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 pull-right">
+              <img class="slide-in left" src="img/bolt-mobile.png" alt="bolt mobile">
+            </div>
+          </div>
+          
+          <div class="row last">
+            <div class="col-md-5 col-sm-5 col-xs-12">
+              <h1>Customizable.</h1>
+              <p>Bolt is split up into easily customizable sections that you can mix and match to make what fits your needs. Bolt comes with multiple layouts, but think of these as just suggestions. You can easily make your own layout that works perfectly for you. </p>
+            </div>
+            <div class="col-md-7 col-sm-7 col-xs-12">
+              <img class="slide-in right" src="img/bolt-blog.png" alt="bolt blog view">
+            </div>
+          </div>
+        </div><!-- /.content -->
+      </div>
+    </div>
+    
+    
+    <!-- Contact Section -->
+    <div id="contact" class="section">
+      <div class="container">
+        
+        <div class="content">
+          <h1>Contact Us</h1>
+          
+          <form role="form">
+            <div class="form-group">
+              <input type="text" class="form-control" id="exampleInputName" placeholder="Full Name" required>
+              <label for="exampleInputName"><i class="icon-tag"></i></label>
+              <div class="clearfix"></div>
+            </div>
+            <div class="form-group">
+              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email" required>
+              <label for="exampleInputEmail1"><i class="icon-inbox"></i></label>
+              <div class="clearfix"></div>
+            </div>
+            <div class="form-group textarea">
+              <textarea rows="6" class="form-control" id="exampleInputMessage" placeholder="Write Message" required></textarea>
+              <label for="exampleInputMessage"><i class="icon-pencil"></i></label>
+              <div class="clearfix"></div>
+            </div>
+            
+            <button type="submit" class="btn btn-large">Send Message</button>
+          </form>
+          
+        </div>
+      </div>
+    </div><!-- /.container -->    
+    
+
+    
+    <div id="footer" class="section">
+      <div class="container">
+        
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <h3>about us</h3>
+            <p>
+              We are a small web design company that is focused on making your vision come to life. We love building responsive and professional websites. We were founded to make it easy for people who want websites to get them. 
+              <br />Made by <a href="http://webdesigncrowd.com">WebDesignCrowd</a>
+            </p>
+            <div class="social-media">
+              <a href="#" data-toggle="tooltip" title="twitter"><i class="icon-twitter"></i></a>
+              <a href="#" data-toggle="tooltip" title="facebook"><i class="icon-facebook"></i></a>
+              <a href="#" data-toggle="tooltip" title="linkedin"><i class="icon-linkedin"></i></a>
+              <a href="#" data-toggle="tooltip" title="github"><i class="icon-github"></i></a>
+              <a href="#" data-toggle="tooltip" title="pinterest"><i class="icon-pinterest"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-1.9.1.min.js"></script>
+    <script src="js/jquery.mixitup.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+    <script src="js/init.js"></script>
+  </body>
+</html>
