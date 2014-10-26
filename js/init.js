@@ -73,7 +73,7 @@
     $(".social-media a").tooltip();
 
     // Smooth Scrolling
-    $("#menu ul li a").click(function(e) {
+    $("#menu ul li a, #hero-panels ul li a").click(function(e) {
        $('html, body').animate({ scrollTop: $(this.hash).offset().top }, 400);
     });
     
