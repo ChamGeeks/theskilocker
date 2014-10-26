@@ -23,7 +23,7 @@
     $(function(){
       $('.gallery').mixitup({
         easing: 'snap',
-        showOnLoad: 'icons',
+        showOnLoad: 'locker',
         resizeContainer: true
       });
 		});
