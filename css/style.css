@@ -467,7 +467,7 @@ label {
     -webkit-transition: .3s;
     transition: .3s;
 
-    background: url("../img/bolt-logo-sprite.png") no-repeat;
+    background: url("../img/logo_questionmark.png") no-repeat;
   }
     .navbar a.navbar-brand:hover { background-position: 0 -65px; } 
     .navbar span.tagline {
