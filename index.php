@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+require_once('contact-form.php');
+?><!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -353,23 +355,32 @@
         <div class="content">
           <h1>Contact The Ski Locker</h1>
 
-          <form role="form">
+          <?php
+          if($message) {
+            echo '<div class="alert alert-color alert-'. $message[0] .'"><p>'.
+              $message[1]
+            .'</p></div>';
+          }
+          ?>
+
+          <form role="form" action="/#contact" method="post">
             <div class="form-group">
-              <input type="text" class="form-control" id="exampleInputName" placeholder="Full Name" required>
-              <label for="exampleInputName"><i class="icon-tag"></i></label>
+              <input type="text" class="form-control" name="full_name" id="full_name" placeholder="Full Name" required>
+              <label for="full_name"><i class="icon-tag"></i></label>
               <div class="clearfix"></div>
             </div>
             <div class="form-group">
-              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email" required>
-              <label for="exampleInputEmail1"><i class="icon-inbox"></i></label>
+              <input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required>
+              <label for="email"><i class="icon-inbox"></i></label>
               <div class="clearfix"></div>
             </div>
             <div class="form-group textarea">
-              <textarea rows="6" class="form-control" id="exampleInputMessage" placeholder="Write Message" required></textarea>
-              <label for="exampleInputMessage"><i class="icon-pencil"></i></label>
+              <textarea rows="6" class="form-control" name="message" id="message" placeholder="Write Message" required></textarea>
+              <label for="message"><i class="icon-pencil"></i></label>
               <div class="clearfix"></div>
             </div>
 
+            <input type="text" name="simple" style="display: none;">
             <button type="submit" class="btn btn-large">Send Message</button>
           </form>
 
@@ -384,6 +395,7 @@
 
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
+
             <h3>The Ski Locker</h3>
             <p>
               The Ski Locker was created to give creative people living and visiting Chamonix the chance to meet, ski and work together. Everyone is welcome, even if you just want to hang out.
