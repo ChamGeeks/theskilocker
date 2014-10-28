@@ -28,7 +28,7 @@ require_once('contact-form.php');
        <div class="navbar-header">
          <a class="navbar-brand" href="index.html"></a>
          <a class="icon" data-toggle="collapse" data-target="#heart" href="#"><i class="icon-heart pull-right"></i></a>
-        <span class="tagline">the ski locker. a creative space in Chamonix</span></div>
+        <span class="tagline">The Ski Locker. a creative space in Chamonix</span></div>
 
         <div id="heart" class="collapse dropdown">
           <div class="arrow-up"></div>
