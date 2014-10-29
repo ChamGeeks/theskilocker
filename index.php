@@ -157,9 +157,8 @@ require_once('contact-form.php');
             <div class="row">
               <div class="col-md-5 col-sm-5 col-xs-12">
                 <h1>The Ski Locker</h1>
-                <p>We that created The Ski Locker is group of entrepreneurs trying to make our living in Chamonix. Most of us at the Ski Locker has been working in London, Stockholm or Paris.
-                  The citys are nice, but not a great creative enviroment for mountain lovers like us. We quickly notices the importance of using our passion for the mountains as a key to unlock our creativity and well being.<br/>
-                This is not a secret we want to keep to our-selfs. Join us and experience deep powder snow, amazing trail runs and the chance to create amazing projects in Chamonix.</p>
+                <p>We started The Ski Locker because we’re a group of entrepreneurs trying to make our living in Chamonix. Most of us had previously been working in London, Stockholm or Paris. Cities are vibrant and dynamic, but not a great creative enviroment for us mountain lovers. We quickly noticed the importance of using our passion for the mountains as a key to unlock our creativity and well-being.
+This is not a secret or something we want to keep to ourselves. Join us and experience deep powder snow, fantastic trail runnning, climbing and hiking whilst at the same time have the opportunity to create interesting projects in Chamonix.</p>
               </div>
               <div class="col-md-7 col-sm-7 col-xs-12">
                 <img class="slide-in right" src="img/mountian.jpg" alt="The mountains unlock out creativity">
@@ -175,8 +174,8 @@ require_once('contact-form.php');
             <div class="row">
               <div class="col-md-6 col-sm-6 col-xs-12 pull-right">
                 <h1>We work here</h1>
-                <p>There are many different people working here. Right now we are looking for recruiments, maybe you are want to join?<br/>
-                We will update this list as soon as the desks are full and ready for the winter season 2015.</p>
+                <p>There are many people with different jobs, skills and personalities working here. At the moment we are looking for more people to join us, maybe it would suit you?
+We will keep the list of availability updated – we’re ready for the 2015 winter season!</p>
               </div>
               <div class="col-md-6 col-sm-6 col-xs-12 pull-right">
                 <img class="slide-in left img-responsive" src="img/theskilocker-worker.jpg" alt="The people working at the Ski Locker in Chamonix">
@@ -189,13 +188,11 @@ require_once('contact-form.php');
           <div class="row last">
             <div class="col-md-5 col-sm-5 col-xs-12">
               <h1>Activities in Chamonix.</h1>
-              <p>Chamonix is not like very ski resort, it is active and full of life all year around. Many of the activities is about sport but we also have several cultural events like the Cosmo Jazz festival or the Yoga festival during summer.</p>
+              <p>Chamonix is not like a standard ski resort, it’s active and full of life all year around. Of course activities are mainly centred around sport but we also have several cultural events like the Cosmo Jazz festival or the Yoga festival during the summer. With Italy and Switzerland around the corner you have the chance to experience different cultures only a few kilometers away. The one hour trip to Geneva airport also makes it quick and easy to fly anywhere in the world.</p>
                 <h2>Winter</h2>
-                <p>When the majority of the people in the world think about Chamonix, they think about deep powder turns and great skiers riding down steep slopes or couloirs. It is only a small part of what Chamonix can offer.
-                  <br/>The lift Aiguille du Midi that is only 100m from the Ski Locker gives you access to famous off-pist skiing like the "Vallé Blanche" or steeper runs like Couloir des Cosmiques and Glacier Rond. Of course, if you are a fan of pizza you can simply ski tour cross the Italian border and eat lunch there.</p>
+                <p>The majority of people associate Chamonix with deep powder turns and great skiers riding down steep couloirs. This is however only a small part of what Chamonix can offer. The lift Aiguille du Midi, which is only 100m from the Ski Locker, gives you access to famous off-pist skiing like the "Vallé Blanche" or steeper runs like Couloir des Cosmiques and Glacier Rond. If you’re a fan of pizza you can simply ski-tour across the Italian border for your lunch!</p>
                 <h2>Summer</h2>
-                <p>When you visit Chamonix you won't get surprised why the summer is more populare than the winter in Chamonix. The cold mountains warms up and you are all of a sudden possible to hike, trail run and mountain bike long distances all over the valley.
-                  <br/>Chamonix is not only famous for it's winter sports, the climbing in Chamonix are also very populare for mountainers from all over the world.</p>
+                <p>If you have ever visited Chamonix in the summer you won’t be surprised to hear that summer season is busier than winter season. As the skiers depart, hikers, runners, climbers and mountaineers roll into town. It’s simply a unique place in the world and the perfect spot for anyone who’s into mountain sports.</p>
             </div>
             <div class="col-md-7 col-sm-7 col-xs-12">
               <img class="slide-in right" src="img/petter-wallberg.jpg" alt="Petter Wallberg skiing in Chamonix">
