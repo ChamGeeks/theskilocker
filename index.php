@@ -9,9 +9,9 @@ require_once('contact-form.php');
     <meta name="author" content="">
 
     <meta property="og:title" content="The Ski Locker - a creative space in Chamonix"/>
-    <meta property="og:image" content="img/mountian.jpg"/>
+    <meta property="og:image" content="img/mountain.jpg"/>
     <meta property="og:site_name" content="The Ski Locker"/>
-    <meta property="og:description" content="We that created The Ski Locker is group of entrepreneurs trying to make our living in Chamonix. Most of us at the Ski Locker has been working in London, Stockholm or Paris. The citys are nice, but not a great creative enviroment."/>
+    <meta property="og:description" content="We started The Ski Locker because we’re a group of entrepreneurs trying to make our living in Chamonix. Most of us had previously been working in London, Stockholm or Paris. Cities are vibrant and dynamic, but not a great creative enviroment for us mountain lovers."/>
   
     <title>The Ski Locker ~ Chamonix</title>
 
