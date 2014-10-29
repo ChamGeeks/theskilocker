@@ -47,7 +47,7 @@ require_once('contact-form.php');
     </div>
 
     <!-- Home Section -->
-    <div id="home" class="section welcome">
+    <div id="home" class="welcome">
 
       <div class="container">
         <div class="content">
@@ -79,7 +79,7 @@ require_once('contact-form.php');
 This is not a secret or something we want to keep to ourselves. Join us and experience deep powder snow, fantastic trail runnning, climbing and hiking whilst at the same time have the opportunity to create interesting projects in Chamonix.</p>
               </div>
               <div class="col-md-7 col-sm-7 col-xs-12">
-                <img class="slide-in right" src="img/mountian.jpg" alt="The mountains unlock out creativity">
+                <img class="slide-in right" src="img/mountain.jpg" alt="The mountains unlock out creativity">
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@ We will keep the list of availability updated – we’re ready for the 2015 win
         </div>
 
       </div><!-- /.content -->
-      
+
     </div>
 
 
