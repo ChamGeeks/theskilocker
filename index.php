@@ -308,9 +308,9 @@ We will keep the list of availability updated – we’re ready for the 2015 win
         </div>
       </div>
     </div><!-- /.container -->
-
+      <div class="section">
     <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2775.6295750811696!2d6.867713699999777!3d45.91871539784516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47894e718f91cedb%3A0x32c95c50630f4ac7!2s26+Place+Edmond+Desailloud%2C+74400+Chamonix-Mont-Blanc%2C+France!5e0!3m2!1sen!2sse!4v1414593261766" width="800" height="600" frameborder="0" style="border:0"></iframe>
-
+      </div>
     <div id="footer" class="section">
       <div class="container">
 
