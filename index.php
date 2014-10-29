@@ -47,28 +47,6 @@ require_once('contact-form.php');
     </div>
 
     <!-- Home Section -->
-      <!-- Modal For Gallery -->
-      <div class="modal fade" id="modal1" tabindex="-1" role="dialog">
-        <div class="wrapper">
-          <img data-dismiss="modal" class="img-responsive icon" src="img/icon-pencil.png" alt="">
-          <h2 class="modal-title"><a href="https://www.iconfinder.com/search/?q=iconset%3Aflat-ui-free">Flat UI Icons</a></h2>
-
-        </div><!-- /.content -->
-      </div><!-- /.modal -->
-      <div class="modal fade" id="modal2" tabindex="-1" role="dialog">
-        <div class="wrapper">
-          <img data-dismiss="modal" class="img-responsive icon" src="img/icon-pencil.png" alt="">
-          <h2 class="modal-title"><a href="https://www.iconfinder.com/search/?q=iconset%3Aflat-ui-free">Flat UI Icons</a></h2>
-        </div><!-- /.content -->
-      </div><!-- /.modal -->
-      <div class="modal fade" id="modal3" tabindex="-1" role="dialog">
-        <div class="wrapper">
-          <img data-dismiss="modal" class="img-responsive icon" src="img/icon-book.png" alt="">
-          <h2 class="modal-title"><a href="https://www.iconfinder.com/search/?q=iconset%3Aflat-ui-free">Flat UI Icons</a></h2>
-        </div><!-- /.content -->
-      </div><!-- /.modal -->
-
-
     <div id="home" class="section welcome">
 
       <div class="container">
@@ -76,74 +54,14 @@ require_once('contact-form.php');
     			<!-- FILTER CONTROLS -->
 
     			<div class="controls">
-  				  <a href="#" class="col-md-4 col-sm-4 col-xs-12 filter active" data-filter="locker">The Ski Locker</a>
-  				  <a href="#" class="col-md-4 col-sm-4 col-xs-12 filter" data-filter="contact">Contact</a>
-  				  <a href="#" class="col-md-4 col-sm-4 col-xs-12 filter" data-filter="chamonix">Chamonix</a>
+  				  <a href="#pricing" class="col-md-4 col-sm-4 col-xs-12 filter active" data-filter="locker">Prices</a>
+  				  <a href="#contact" class="col-md-4 col-sm-4 col-xs-12 filter" data-filter="contact">Contact</a>
+  				  <a href="#chamonix" class="col-md-4 col-sm-4 col-xs-12 filter" data-filter="chamonix">Chamonix</a>
   				  <span class="stretch"></span>
     			</div>
 
     		</div>
-    		<div id="hero-panels" class="gallery row">
-    		  <ul>
-    		    <li class="col-md-4 col-sm-4 col-xs-12 mix locker" data-cat="locker">
-                <a href="#theskilocker" class="mix-cover gray">
-                  <span class="valign"></span>
-                  <img src="img/icon-clock.png" alt="icon clock">
-        		      <span class="overlay"><span class="valign"></span>Our story</span>
-                </a>
-      		  </li>
-    		    <li class="col-md-4 col-sm-4 col-xs-12 mix locker" data-cat="locker">
-                <a href="/#pricing" class="mix-cover gray">
-                  <span class="valign"></span>
-                  <img src="img/icon-pencil.png" alt="icon pencil">
-        		      <div class="overlay"><span class="valign"></span>Prices</div>
-                </a>
-            </li>
-      		  <li class="col-md-4 col-sm-4 col-xs-12 mix locker" data-cat="locker">
-                <a href="/#team" class="mix-cover gray">
-                  <span class="valign"></span>
-                  <img src="img/icon-book.png" alt="icon book">
-        		      <div class="overlay"><span class="valign"></span>We work here</div>
-                </a>
-            </li>
-      		  <li class="col-md-4 col-sm-4 col-xs-12 mix contact" data-cat="contact">
-                <a href="/#contact" class="mix-cover green">
-                  <img class="placeholder" src="http://placehold.it/340x300" alt="sintel snowscape">
-                  <div class="overlay"><span class="valign"></span>Press and media</div>
-        		    </a>
-      		  </li>
-      		  <li class="col-md-4 col-sm-4 col-xs-12 mix contact" data-cat="contact">
-                <a href="/#contact" class="mix-cover">
-                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
-                  <div class="overlay"><span class="valign"></span>Book a space</div>
-        		    </a>
-      		  </li>
-      		  <li class="col-md-4 col-sm-4 col-xs-12 mix contact" data-cat="contact">
-                <a href="/#contact" class="mix-cover">
-                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
-                  <div class="overlay"><span class="valign"></span>Get in touch</div>
-        		    </a>
-      		  </li>
-      		  <li class="col-md-4 col-sm-4 col-xs-12 mix chamonix" data-cat="chamonix">
-                <a href="/#" class="mix-cover">
-                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
-                  <div class="overlay"><span class="valign"></span>Getting to Chamonix</div>
-        		    </a>
-      		  </li>
-      		  <li class="col-md-4 col-sm-4 col-xs-12 mix chamonix" data-cat="chamonix">
-                <a href="/#" class="mix-cover">
-                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
-                  <div class="overlay"><span class="valign"></span>Where to stay</div>
-        		    </a>
-      		  </li>
-      		  <li class="col-md-4 col-sm-4 col-xs-12 mix chamonix" data-cat="chamonix">
-                <a href="/#" class="mix-cover">
-                  <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
-                  <div class="overlay"><span class="valign"></span>Activities</div>
-        		    </a>
-      		  </li>
-    		  </ul>
-        </div>
+
       </div>
 
     </div><!-- /.container -->
@@ -170,7 +88,7 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
 
         <div class="section">
           <div id="team" class="row">
-
+            <div id="chamonix" class="section">
             <div class="row">
               <div class="col-md-6 col-sm-6 col-xs-12 pull-right">
                 <h1>We work here</h1>
@@ -201,6 +119,7 @@ We will keep the list of availability updated – we’re ready for the 2015 win
         </div>
 
       </div><!-- /.content -->
+      
     </div>
 
 
