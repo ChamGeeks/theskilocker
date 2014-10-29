@@ -44,4 +44,4 @@ function validate_form() {
   }
 }
 
-$message = validate_form();
+$message = isset($_POST['simple']) ? validate_form() : false;

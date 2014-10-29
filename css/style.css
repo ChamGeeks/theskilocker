@@ -1281,12 +1281,8 @@ label {
   z-index: 1;
   border-top: 1px solid #eee;
   background-color: #f4f4f4;
-<<<<<<< HEAD
   margin-bottom: 0;
 }  
-=======
-}
->>>>>>> 3e405acd0c01594218f5653bbf973c26f8a00ecd
   #footer .row { margin: 0 10%; }
 
   #footer h3 {
@@ -1331,3 +1327,11 @@ label {
     #footer.blog p { margin: 0 0 55px 0; }
     #footer.blog .social-media { text-align: left; margin-left: -10px; }
     #footer.blog .row { margin: 0; }
+
+
+
+/* Custom */
+
+.google-map { margin: 0 auto; display: block; max-width: 100%; }
+
+
