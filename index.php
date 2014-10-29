@@ -33,7 +33,7 @@ require_once('contact-form.php');
        <div class="navbar-header">
          <a class="navbar-brand" href="/"></a>
          <a class="icon" data-toggle="collapse" data-target="#heart" href="#"><i class="icon-heart pull-right"></i></a>
-        <span class="tagline">The Ski Locker. a creative space in Chamonix</span></div>
+        <span class="tagline">The Ski Locker - Creative space in Chamonix</span></div>
 
         <div id="heart" class="collapse dropdown">
           <div class="arrow-up"></div>
@@ -147,7 +147,7 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                       <tr><td>Logo on website</td></tr>
                       <tr><td>Blog account</td></tr>
                       <tr><td>Window sign</td></tr>
-                      <tr><td><a class="btn" href="#">BOOK NOW</a></td></tr>
+                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
                     </tbody>
                   </table>
                 </div>
@@ -167,7 +167,7 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                       <tr><td>Logo on website</td></tr>
                       <tr><td><s>Blog account</s></td></tr>
                       <tr><td><s>Window sign</s></td></tr>
-                      <tr><td><a class="btn" href="#">BOOK NOW</a></td></tr>
+                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
                     </tbody>
                   </table>
                 </div>
@@ -187,7 +187,7 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                       <tr><td><s>Logo on website</s></td></tr>
                       <tr><td><s>Blog account</s></td></tr>
                       <tr><td><s>Window sign</s></td></tr>
-                      <tr><td><a class="btn" href="#">BOOK NOW</a></td></tr>
+                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
                     </tbody>
                   </table>
                 </div>
@@ -221,7 +221,7 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                       <tr><td>LED screen with Chromecast</td></tr>
                       <tr><td>Sound proof</td></tr>
                       <tr><td>6 chairs</td></tr>
-                      <tr><td><a class="btn" href="#">BOOK NOW</a></td></tr>
+                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
                     </tbody>
                   </table>
                 </div>
@@ -239,7 +239,7 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                       <tr><td>Internet</td></tr>
                       <tr><td>Printer</td></tr>
                       <tr><td><s>Ski Locker</s></td></tr>
-                      <tr><td><a class="btn" href="#">BOOK NOW</a></td></tr>
+                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
                     </tbody>
                   </table>
                 </div>
@@ -257,7 +257,7 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                       <tr><td>Internet</td></tr>
                       <tr><td>Printer</td></tr>
                       <tr><td>Ski Locker</td></tr>
-                      <tr><td><a class="btn" href="#">BOOK NOW</a></td></tr>
+                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
                     </tbody>
                   </table>
                 </div>
