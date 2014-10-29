@@ -31,7 +31,7 @@ require_once('contact-form.php');
     <div id="navbar" class="navbar navbar-inverse">
      <div class="container">
        <div class="navbar-header">
-         <a class="navbar-brand" href="index.html"></a>
+         <a class="navbar-brand" href="/"></a>
          <a class="icon" data-toggle="collapse" data-target="#heart" href="#"><i class="icon-heart pull-right"></i></a>
         <span class="tagline">The Ski Locker. a creative space in Chamonix</span></div>
 
@@ -93,51 +93,51 @@ require_once('contact-form.php');
                 </a>
       		  </li>
     		    <li class="col-md-4 col-sm-4 col-xs-12 mix locker" data-cat="locker">
-                <a href="index.html#pricing" class="mix-cover gray">
+                <a href="/#pricing" class="mix-cover gray">
                   <span class="valign"></span>
                   <img src="img/icon-pencil.png" alt="icon pencil">
         		      <div class="overlay"><span class="valign"></span>Prices</div>
                 </a>
             </li>
       		  <li class="col-md-4 col-sm-4 col-xs-12 mix locker" data-cat="locker">
-                <a href="index.html#team" class="mix-cover gray">
+                <a href="/#team" class="mix-cover gray">
                   <span class="valign"></span>
                   <img src="img/icon-book.png" alt="icon book">
         		      <div class="overlay"><span class="valign"></span>We work here</div>
                 </a>
             </li>
       		  <li class="col-md-4 col-sm-4 col-xs-12 mix contact" data-cat="contact">
-                <a href="index.html#contact" class="mix-cover green">
+                <a href="/#contact" class="mix-cover green">
                   <img class="placeholder" src="http://placehold.it/340x300" alt="sintel snowscape">
                   <div class="overlay"><span class="valign"></span>Press and media</div>
         		    </a>
       		  </li>
       		  <li class="col-md-4 col-sm-4 col-xs-12 mix contact" data-cat="contact">
-                <a href="index.html#contact" class="mix-cover">
+                <a href="/#contact" class="mix-cover">
                   <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
                   <div class="overlay"><span class="valign"></span>Book a space</div>
         		    </a>
       		  </li>
       		  <li class="col-md-4 col-sm-4 col-xs-12 mix contact" data-cat="contact">
-                <a href="index.html#contact" class="mix-cover">
+                <a href="/#contact" class="mix-cover">
                   <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
                   <div class="overlay"><span class="valign"></span>Get in touch</div>
         		    </a>
       		  </li>
       		  <li class="col-md-4 col-sm-4 col-xs-12 mix chamonix" data-cat="chamonix">
-                <a href="#" class="mix-cover">
+                <a href="/#" class="mix-cover">
                   <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
                   <div class="overlay"><span class="valign"></span>Getting to Chamonix</div>
         		    </a>
       		  </li>
       		  <li class="col-md-4 col-sm-4 col-xs-12 mix chamonix" data-cat="chamonix">
-                <a href="#" class="mix-cover">
+                <a href="/#" class="mix-cover">
                   <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
                   <div class="overlay"><span class="valign"></span>Where to stay</div>
         		    </a>
       		  </li>
       		  <li class="col-md-4 col-sm-4 col-xs-12 mix chamonix" data-cat="chamonix">
-                <a href="#" class="mix-cover">
+                <a href="/#" class="mix-cover">
                   <img class="placeholder" src="http://placehold.it/340x300" alt="placeholder">
                   <div class="overlay"><span class="valign"></span>Activities</div>
         		    </a>
