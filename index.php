@@ -7,26 +7,16 @@ require_once('contact-form.php');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-
     <meta property="og:title" content="The Ski Locker - a creative space in Chamonix"/>
     <meta property="og:image" content="img/mountain.jpg"/>
     <meta property="og:site_name" content="The Ski Locker"/>
-    <meta property="og:description" content="We started The Ski Locker because we’re a group of entrepreneurs trying to make our living in Chamonix. Most of us had previously been working in London, Stockholm or Paris. Cities are vibrant and dynamic, but not a great creative enviroment for us mountain lovers."/>
-  
+    <meta property="og:description" content="We started The Ski Locker because we’re a group of entrepreneurs trying to make our living in Chamonix. Most of us had previously been working in London, Stockholm or Paris. Cities are vibrant and dynamic, but not a great creative environment for us mountain lovers."/>
     <title>The Ski Locker ~ Chamonix</title>
-
-    <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
-
-    <!-- Raleway Font -->
     <link href='http://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
-
-    <!-- Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
-
   </head>
-
   <body>
     <div id="navbar" class="navbar navbar-inverse">
      <div class="container">
@@ -34,7 +24,6 @@ require_once('contact-form.php');
          <a class="navbar-brand" href="/"></a>
          <a class="icon" data-toggle="collapse" data-target="#heart" href="#"><i class="icon-heart pull-right"></i></a>
         <span class="tagline">The Ski Locker - Creative space in Chamonix</span></div>
-
         <div id="heart" class="collapse dropdown">
           <div class="arrow-up"></div>
           <ul class="menu">
@@ -45,70 +34,56 @@ require_once('contact-form.php');
         </div>
       </div>
     </div>
-
-    <!-- Home Section -->
     <div id="home" class="welcome">
-
       <div class="container">
         <div class="content">
-    			<!-- FILTER CONTROLS -->
-
     			<div class="controls">
   				  <a href="#pricing" class="col-md-4 col-sm-4 col-xs-12 filter active" data-filter="locker">Prices</a>
   				  <a href="#contact" class="col-md-4 col-sm-4 col-xs-12 filter" data-filter="contact">Contact</a>
   				  <a href="#chamonix" class="col-md-4 col-sm-4 col-xs-12 filter" data-filter="chamonix">Chamonix</a>
   				  <span class="stretch"></span>
     			</div>
-
     		</div>
-
       </div>
-
     </div><!-- /.container -->
-
     <!-- Services Section -->
     <div id="theskilocker" class="section">
       <div class="container">
-
         <div class="content">
           <div class="section">
             <div class="row">
               <div class="col-md-5 col-sm-5 col-xs-12">
                 <h1>The Ski Locker</h1>
-                <p>We started The Ski Locker because we’re a group of entrepreneurs trying to make our living in Chamonix. Most of us had previously been working in London, Stockholm or Paris. Cities are vibrant and dynamic, but not a great creative enviroment for us mountain lovers. We quickly noticed the importance of using our passion for the mountains as a key to unlock our creativity and well-being.
-This is not a secret or something we want to keep to ourselves. Join us and experience deep powder snow, fantastic trail runnning, climbing and hiking whilst at the same time have the opportunity to create interesting projects in Chamonix.</p>
+                <p>We started The Ski Locker because we’re a group of entrepreneurs trying to make our living in Chamonix. Most of us had previously been working in London, Stockholm or Paris. Cities are vibrant and dynamic, but not a great creative environment for us mountain lovers. We quickly noticed the importance of using our passion for the mountains as a key to unlock our creativity and well-being.
+This is not a secret or something we want to keep to ourselves. Join us and experience deep powder snow, fantastic trail-running, climbing and hiking whilst at the same time have the opportunity to create interesting projects in Chamonix.</p>
               </div>
               <div class="col-md-7 col-sm-7 col-xs-12">
-                <img class="slide-in right" src="img/mountain.jpg" alt="The mountains unlock out creativity">
+                <img class="slide-in right" src="img/mountain.jpg" alt="The mountains unlock our creativity">
               </div>
             </div>
           </div>
         </div>
-
-
         <div class="section">
           <div id="team" class="row">
             <div id="chamonix" class="section">
             <div class="row">
               <div class="col-md-6 col-sm-6 col-xs-12 pull-right">
                 <h1>We work here</h1>
-                <p>There are many people with different jobs, skills and personalities working here. At the moment we are looking for more people to join us, maybe it would suit you?
-We will keep the list of availability updated – we’re ready for the 2015 winter season!</p>
+                <p>There are many people with different jobs, skills and personalities working here. At the moment we are looking for more people to join us, maybe it would suit you? We will keep the list of availability updated – we’re ready for the 2015 winter season!</p>
               </div>
               <div class="col-md-6 col-sm-6 col-xs-12 pull-right">
-                <img class="slide-in left img-responsive" src="img/theskilocker-worker.jpg" alt="The people working at the Ski Locker in Chamonix">
+                <img class="slide-in left img-responsive" src="img/theskilocker-worker.jpg" alt="The people working at The Ski Locker in Chamonix">
               </div>
             </div>
           </div> <!-- /#team -->
         </div>
-
         <div class="section">
           <div class="row last">
             <div class="col-md-5 col-sm-5 col-xs-12">
               <h1>Activities in Chamonix.</h1>
-              <p>Chamonix is not like a standard ski resort, it’s active and full of life all year around. Of course activities are mainly centred around sport but we also have several cultural events like the Cosmo Jazz festival or the Yoga festival during the summer. With Italy and Switzerland around the corner you have the chance to experience different cultures only a few kilometers away. The one hour trip to Geneva airport also makes it quick and easy to fly anywhere in the world.</p>
+              <p>Chamonix is not like a standard ski resort; it’s active and full of life all year around. Of course activities are mainly centred around sport but we also have several cultural events like the Cosmo Jazz festival or the Yoga festival during the summer. With Italy and Switzerland around the corner you have the chance to experience different cultures only a few kilometers away. The one hour trip to Geneva airport also makes it quick and easy to fly anywhere in the world.</p>
                 <h2>Winter</h2>
-                <p>The majority of people associate Chamonix with deep powder turns and great skiers riding down steep couloirs. This is however only a small part of what Chamonix can offer. The lift Aiguille du Midi, which is only 100m from the Ski Locker, gives you access to famous off-pist skiing like the "Vallé Blanche" or steeper runs like Couloir des Cosmiques and Glacier Rond. If you’re a fan of pizza you can simply ski-tour across the Italian border for your lunch!</p>
+                <p>The majority of people associate Chamonix with deep powder turns and great skiers riding down steep couloirs. This is however only a small part of what Chamonix can offer. The Aiguille du Midi lift, only 100m from The Ski Locker, gives you access to famous off-piste skiing like the "Vallé Blanche" or steeper runs like the Couloir des Cosmiques and the Glacier Rond. If you’re a fan of pizza you can simply ski-tour across the Italian border for your lunch!</p>
                 <h2>Summer</h2>
                 <p>If you have ever visited Chamonix in the summer you won’t be surprised to hear that summer season is busier than winter season. As the skiers depart, hikers, runners, climbers and mountaineers roll into town. It’s simply a unique place in the world and the perfect spot for anyone who’s into mountain sports.</p>
             </div>
@@ -117,22 +92,15 @@ We will keep the list of availability updated – we’re ready for the 2015 win
             </div>
           </div>
         </div>
-
       </div><!-- /.content -->
-
     </div>
-
-
     <div id="pricing" class="section">
       <div class="fixed-container">
-
         <div class="content text-center">
           <h1>Long-term Pricing Table</h1>
-          <p>All prices are per MONTH and EXCKLUDING VAT 25%</p><br /><br /><br /><br />
-
+          <p>All prices are per MONTH and EXCLUDE 25% VAT</p><br /><br /><br /><br />
           <div class="pricing">
             <div class="row">
-
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="wrapper">
                   <h3 class="text-center">Year</h3>
@@ -152,7 +120,6 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                   </table>
                 </div>
               </div>
-
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="wrapper">
                   <h3 class="text-center">Season</h3>
@@ -172,7 +139,6 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                   </table>
                 </div>
               </div>
-
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="wrapper">
                   <h3 class="text-center">Month</h3>
@@ -198,15 +164,11 @@ We will keep the list of availability updated – we’re ready for the 2015 win
         </div>
       </div>
     </div><!-- /.container -->
-
-
     <div id="pricing-short-term" class="section">
       <div class="fixed-container">
-
         <div class="content text-center">
           <h1>Short-term Pricing Table</h1>
-          <p>All prices are EXCLUDING VAT 25%</p><br /><br /><br /><br />
-
+          <p>All prices EXCLUDE 25% VAT</p><br /><br /><br /><br />
           <div class="pricing">
             <div class="row">
               <div class="col-md-4 col-sm-4 col-xs-12">
@@ -226,7 +188,6 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                   </table>
                 </div>
               </div>
-
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="wrapper">
                   <h3 class="text-center">Per Hour</h3>
@@ -244,7 +205,6 @@ We will keep the list of availability updated – we’re ready for the 2015 win
                   </table>
                 </div>
               </div>
-
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="wrapper">
                   <h3 class="text-center">Per Day</h3>
@@ -268,14 +228,11 @@ We will keep the list of availability updated – we’re ready for the 2015 win
         </div>
       </div>
     </div><!-- /.container -->
-
     <!-- Contact Section -->
     <div id="contact" class="section">
       <div class="container">
-
         <div class="content">
           <h1>Contact The Ski Locker</h1>
-
           <?php
           if($message) {
             echo '<div class="alert alert-color alert-'. $message[0] .'"><p>'.
@@ -283,7 +240,6 @@ We will keep the list of availability updated – we’re ready for the 2015 win
             .'</p></div>';
           }
           ?>
-
           <form role="form" action="/#contact" method="post">
             <div class="form-group">
               <input type="text" class="form-control" name="full_name" id="full_name" placeholder="Full Name" required>
@@ -300,11 +256,9 @@ We will keep the list of availability updated – we’re ready for the 2015 win
               <label for="message"><i class="icon-pencil"></i></label>
               <div class="clearfix"></div>
             </div>
-
             <input type="text" name="simple" style="display: none;">
             <button type="submit" class="btn btn-large">Send Message</button>
           </form>
-
         </div>
       </div>
     </div><!-- /.container -->
@@ -313,10 +267,8 @@ We will keep the list of availability updated – we’re ready for the 2015 win
       </div>
     <div id="footer" class="section">
       <div class="container">
-
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
-
             <h3>The Ski Locker</h3>
             <p>
               The Ski Locker was created to give creative people living and visiting Chamonix the chance to meet, ski and work together. Everyone is welcome, even if you just want to hang out.
@@ -337,13 +289,10 @@ We will keep the list of availability updated – we’re ready for the 2015 win
         </div>
       </div>
     </div>
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- Bootstrap core JavaScript -->
     <script src="js/jquery-1.9.1.min.js"></script>
     <script src="js/jquery.mixitup.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
     <script src="js/init.js"></script>
   </body>
 </html>
