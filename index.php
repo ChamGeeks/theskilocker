@@ -12,7 +12,7 @@ require_once('contact-form.php');
     <meta property="og:image" content="img/mountain.jpg"/>
     <meta property="og:site_name" content="The Ski Locker"/>
     <meta property="og:description" content="We started The Ski Locker because we’re a group of entrepreneurs trying to make our living in Chamonix. Most of us had previously been working in London, Stockholm or Paris. Cities are vibrant and dynamic, but not a great creative enviroment for us mountain lovers."/>
-  
+
     <title>The Ski Locker ~ Chamonix</title>
 
     <!-- Bootstrap core CSS -->
@@ -31,9 +31,11 @@ require_once('contact-form.php');
     <div id="navbar" class="navbar navbar-inverse">
      <div class="container">
        <div class="navbar-header">
-         <a class="navbar-brand" href="/"></a>
+         <a class="navbar-brand" href="/">
+           The Ski Locker
+         </a>
          <a class="icon" data-toggle="collapse" data-target="#heart" href="#"><i class="icon-heart pull-right"></i></a>
-        <span class="tagline">The Ski Locker - Creative space in Chamonix</span></div>
+        <span class="tagline">Creative space in Chamonix</span></div>
 
         <div id="heart" class="collapse dropdown">
           <div class="arrow-up"></div>
