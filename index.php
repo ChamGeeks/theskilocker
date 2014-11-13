@@ -97,11 +97,19 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
         </div>
       </div><!-- /.content -->
     </div>
+
+    <!-- Picing -->
+
     <div id="pricing" class="section">
       <div class="fixed-container">
         <div class="content text-center">
           <h1>Long-term Pricing Table</h1>
-          <p>All prices are per MONTH and EXCLUDE 25% VAT</p><br /><br /><br /><br />
+          <p>All prices are per MONTH and EXCLUDE 25% VAT</p>
+          <p>
+            <small>( The office is fire and theft insuranced )</small>
+          </p>
+
+          <br /><br /><br /><br />
           <div class="pricing">
             <div class="row">
               <div class="col-md-4 col-sm-4 col-xs-12">
@@ -109,7 +117,10 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
                   <h3 class="text-center">Year</h3>
                   <table class="table">
                     <thead>
-                      <tr><th><span class="price"><i class="icon-euro"></i>200</span></th></tr>
+                      <tr><th><span class="price"><i class="icon-euro"></i>
+                        200
+                        <span class="per-month">/ month</span>
+                      </span></th></tr>
                     </thead>
                     <tbody>
                       <tr><td>Personal workstation</td></tr>
@@ -128,7 +139,10 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
                   <h3 class="text-center">Season</h3>
                   <table class="table">
                     <thead>
-                      <tr><th><span class="price"><i class="icon-euro"></i>230</span></th></tr>
+                      <tr><th><span class="price"><i class="icon-euro"></i>
+                        230
+                        <span class="per-month">/ month</span>
+                      </span></th></tr>
                     </thead>
                     <tbody>
                       <tr><td>Personal workstation</td></tr>
@@ -147,7 +161,9 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
                   <h3 class="text-center">Month</h3>
                   <table class="table">
                     <thead>
-                      <tr><th><span class="price"><i class="icon-euro"></i>270</span></th></tr>
+                      <tr><th><span class="price"><i class="icon-euro"></i>
+                        270
+                      </span></th></tr>
                     </thead>
                     <tbody>
                       <tr><td><s>Personal</s> Flexible workstation</td></tr>
