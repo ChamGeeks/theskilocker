@@ -98,8 +98,9 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
       </div><!-- /.content -->
     </div>
 
-    <!-- Picing -->
 
+
+    <!-- Picing -->
     <div id="pricing" class="section">
       <div class="fixed-container">
         <div class="content text-center">
@@ -183,6 +184,89 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
         </div>
       </div>
     </div><!-- /.container -->
+
+
+        <!-- Picing -->
+    <div id="pricing" class="section">
+      <div class="fixed-container">
+        <div class="content text-center">
+          <h1>Hot desk Pricing Table</h1>
+          <p>All prices are per MONTH and EXCLUDE 25% VAT</p>
+          <p>
+            <small>( The office is fire and theft insuranced )</small>
+          </p>
+
+          <br /><br /><br /><br />
+          <div class="pricing">
+            <div class="row">
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="wrapper">
+                  <h3 class="text-center">Year</h3>
+                  <table class="table">
+                    <thead>
+                      <tr><th><span class="price"><i class="icon-euro"></i>
+                        160
+                        <span class="per-month">/ month</span>
+                      </span></th></tr>
+                    </thead>
+                    <tbody>
+                      <tr><td>Flexible workstation</td></tr>
+                      <tr><td>Only 2 days a week</td></tr>
+                      <tr><td>Ski Locker</td></tr>
+                      <tr><td>Logo on website</td></tr>
+                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="wrapper">
+                  <h3 class="text-center">Season</h3>
+                  <table class="table">
+                    <thead>
+                      <tr><th><span class="price"><i class="icon-euro"></i>
+                        190
+                        <span class="per-month">/ month</span>
+                      </span></th></tr>
+                    </thead>
+                    <tbody>
+                      <tr><td>Flexible workstation</td></tr>
+                      <tr><td>Only 2 days a week</td></tr>
+                      <tr><td>Ski Locker</td></tr>
+                      <tr><td>Logo on website</td></tr>
+                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="wrapper">
+                  <h3 class="text-center">Month</h3>
+                  <table class="table">
+                    <thead>
+                      <tr><th><span class="price"><i class="icon-euro"></i>
+                        220
+                      </span></th></tr>
+                    </thead>
+                    <tbody>
+                      <tr><td>Flexible workstation</td></tr>
+                      <tr><td>Only 2 days a week</td></tr>
+                      <tr><td>Ski Locker</td></tr>
+                      <tr><td>Logo on website</td></tr>
+                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!-- /.container -->
+
+
+
     <div id="pricing-short-term" class="section">
       <div class="fixed-container">
         <div class="content text-center">
@@ -202,23 +286,6 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
                       <tr><td>LED screen with Chromecast</td></tr>
                       <tr><td>Sound proof</td></tr>
                       <tr><td>6 chairs</td></tr>
-                      <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
-                    </tbody>
-                  </table>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="wrapper">
-                  <h3 class="text-center">Per Hour</h3>
-                  <table class="table">
-                    <thead>
-                      <tr><th><span class="price"><i class="icon-euro"></i>15</span></th></tr>
-                    </thead>
-                    <tbody>
-                      <tr><td>Flexible workstation</td></tr>
-                      <tr><td>Internet</td></tr>
-                      <tr><td>Printer</td></tr>
-                      <tr><td><s>Ski Locker</s></td></tr>
                       <tr><td><a class="btn" href="#contact">BOOK NOW</a></td></tr>
                     </tbody>
                   </table>
