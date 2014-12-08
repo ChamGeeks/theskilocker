@@ -105,7 +105,7 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
       <div class="fixed-container">
         <div class="content text-center">
           <h1>Long-term Pricing Table</h1>
-          <p>All prices are per MONTH and EXCLUDE 25% VAT</p>
+          <p>All prices are per MONTH and EXCLUDE VAT</p>
           <p>
             <small>( The office is fire and theft insuranced )</small>
           </p>
@@ -191,7 +191,7 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
       <div class="fixed-container">
         <div class="content text-center">
           <h1>Hot desk Pricing Table</h1>
-          <p>All prices are per MONTH and EXCLUDE 25% VAT</p>
+          <p>All prices are per MONTH and EXCLUDE VAT</p>
           <p>
             <small>( The office is fire and theft insuranced )</small>
           </p>
@@ -271,7 +271,7 @@ This is not a secret or something we want to keep to ourselves. Join us and expe
       <div class="fixed-container">
         <div class="content text-center">
           <h1>Short-term Pricing Table</h1>
-          <p>All prices EXCLUDE 25% VAT</p><br /><br /><br /><br />
+          <p>All prices EXCLUDE VAT</p><br /><br /><br /><br />
           <div class="pricing">
             <div class="row">
               <div class="col-md-4 col-sm-4 col-xs-12">
