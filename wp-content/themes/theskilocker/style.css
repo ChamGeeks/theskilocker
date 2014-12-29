@@ -1,0 +1,35 @@
+/*!
+ * Theme Name: The ski locker
+ * Theme URI: http://html5blank.com
+ * Description: HTML5 Blank WordPress Theme
+ * Version: 1.5.0
+ * Author: Todd Motto (@toddmotto)
+ * Author URI: http://toddmotto.com
+ * Tags: Blank, HTML5, CSS3
+ *
+ * License: MIT
+ * License URI: http://opensource.org/licenses/mit-license.php
+ */
+
+
+/**
+ * Alignment
+ */
+.alignnone { margin: 5px 15px 15px 0; }
+.aligncenter { display: block; margin: 5px auto; }
+.alignright { float: right; }
+img.alignright { margin: 5px 0 15px 15px; }
+.alignleft { float: left; }
+img.alignleft { margin: 5px 15px 15px 0; }
+/**
+ * Gallery & images
+ */
+.wp-caption { background: white; border: thin solid #F0F0F0; max-width: 95%;
+  padding: 5px 5px; text-align: center; }
+.wp-caption img { width: auto; max-width: 98.5%; height: auto;
+  border: 0 none; padding: 0; margin: 0; }
+.wp-caption .wp-caption-text,
+.gallery-caption { margin: 0; padding: 0 5px 5px; font-size: 140%; line-height: 1.5; }
+.clear:before, .clear:after { content: " "; display: table; }
+.clear:after { clear: both; }
+.reset-box { padding: 0; margin: 0; }
