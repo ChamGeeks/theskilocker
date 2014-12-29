@@ -13,10 +13,6 @@
 
 				<?php the_content(); ?>
 
-				<?php comments_template( '', true ); // Remove if you don't want comments ?>
-
-				<br class="clear">
-
 				<?php edit_post_link(); ?>
 
 			</article>
@@ -40,6 +36,6 @@
 		<!-- /section -->
 	</main>
 
-<?php get_sidebar(); ?>
+<?php # get_sidebar(); ?>
 
 <?php get_footer(); ?>

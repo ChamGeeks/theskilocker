@@ -1,30 +1,45 @@
-			<!-- footer -->
-			<footer class="footer" role="contentinfo">
+    </div>
+    <!-- /wrapper -->
 
-				<!-- copyright -->
-				<p class="copyright">
-					&copy; <?php echo date('Y'); ?> Copyright <?php bloginfo('name'); ?>. <?php _e('Powered by', 'html5blank'); ?>
-					<a href="//wordpress.org" title="WordPress">WordPress</a> &amp; <a href="//html5blank.com" title="HTML5 Blank">HTML5 Blank</a>.
-				</p>
-				<!-- /copyright -->
 
-			</footer>
-			<!-- /footer -->
+    <!-- footer -->
+    <footer class="footer" role="contentinfo">
 
-		</div>
-		<!-- /wrapper -->
+      <h3>The Ski Locker</h3>
+      <p>
+        The Ski Locker was created to give creative people living and visiting Chamonix the chance to meet, ski and work together. Everyone is welcome, even if you just want to hang out.
+        <br>
+      </p>
+      <div class="social-media">
+        <a href="https://twitter.com/TheSki_locker" data-toggle="tooltip" title="" data-original-title="twitter">
+          twitter
+        </a>
+        <a href="http://www.facebook.com/theskilocker" data-toggle="tooltip" title="" data-original-title="facebook">
+          facebook
+        </a>
+        <a href="https://github.com/ChamGeeks" data-toggle="tooltip" title="" data-original-title="github">
+          github
+        </a>
+      </div>
 
-		<?php wp_footer(); ?>
+    </footer>
+    <!-- /footer -->
 
-		<!-- analytics -->
-		<script>
-		(function(f,i,r,e,s,h,l){i['GoogleAnalyticsObject']=s;f[s]=f[s]||function(){
-		(f[s].q=f[s].q||[]).push(arguments)},f[s].l=1*new Date();h=i.createElement(r),
-		l=i.getElementsByTagName(r)[0];h.async=1;h.src=e;l.parentNode.insertBefore(h,l)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		ga('create', 'UA-XXXXXXXX-XX', 'yourdomain.com');
-		ga('send', 'pageview');
-		</script>
 
-	</body>
+    <!-- Latest compiled and minified JavaScript -->
+    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script> -->
+
+    <?php wp_footer(); ?>
+
+    <!-- analytics -->
+    <script>
+    (function(f,i,r,e,s,h,l){i['GoogleAnalyticsObject']=s;f[s]=f[s]||function(){
+    (f[s].q=f[s].q||[]).push(arguments)},f[s].l=1*new Date();h=i.createElement(r),
+    l=i.getElementsByTagName(r)[0];h.async=1;h.src=e;l.parentNode.insertBefore(h,l)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-XXXXXXXX-XX', 'yourdomain.com');
+    ga('send', 'pageview');
+    </script>
+
+  </body>
 </html>
