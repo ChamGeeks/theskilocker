@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Pricing Tables\n"
+"POT-Creation-Date: 2014-04-02 21:54+0200\n"
+"PO-Revision-Date: 2014-04-02 21:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/mindo/Documents/git/wordpress/wp-content/"
+"plugins/easy-pricing-tables-free\n"
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/pricing-table-plugin.php:60
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:12
+msgid "Add New"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/pricing-table-plugin.php:61
+msgid "Support"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/pricing-table-plugin.php:62
+msgid "Purchase Premium"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/pricing-table-plugin.php:78
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%s\" target=\"_blank\">Easy Pricing Tables</a>."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/pricing-table-plugin.php:79
+#, php-format
+msgid "Please <a href=\"%s\">rate us on WordPress.org</a>."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/clone-table.php:21
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/clone-table.php:22
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/clone-table.php:25
+msgid "Make a Copy"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/clone-table.php:99
+msgid "No naughty business please"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/clone-table.php:121
+#, php-format
+msgid "Copy of %s"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/clone-table.php:136
+msgid "Pricing table was copied successfully."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/media-button.php:10
+msgid "Insert pricing table"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/media-button.php:62
+msgid "Use the form below to insert the shortcode for a pricing table."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/media-button.php:65
+msgid "Please select..."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/media-button.php:82
+msgid "Insert"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/media-button.php:83
+msgid "Cancel"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/pointer.php:59
+msgid "Do not allow tracking"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/pointer.php:61
+msgid "Allow tracking"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/pointer.php:65
+msgid "Help Improve Easy Pricing Tables"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/pointer.php:66
+msgid ""
+"Thanks for installing Easy Pricing Tables. Please help us improve this "
+"plugin by gathering usage stats so we know which features to improve and "
+"which plugins and themes to test with."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/pointer.php:117
+msgid "No, thanks"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/pointer.php:119
+msgid "Let&#39;s do it!"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/pointer.php:123
+msgid "Pricing Table Crash Course"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/pointer.php:124
+#, php-format
+msgid ""
+"Instead of watching 99% of your visitors bounce, imagine you could increase "
+"your pricing table&#39;s conversion rate and make more money. Find out how "
+"in this ridiculously actionable (and totally free) 5-part email course."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:10
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:22
+msgid "Pricing Tables"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:11
+msgid "Pricing Table"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:13
+msgid "Add New Pricing Table"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:14
+msgid "Edit Pricing Table"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:15
+msgid "New Pricing Table"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:16
+msgid "All Pricing Tables"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:17
+msgid "View Pricing Table"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:18
+msgid "Search Pricing Tables"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:19
+msgid "No Pricing Tables found"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:20
+msgid "No Pricing Tables found in Trash"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:60
+#, php-format
+msgid "Pricing table saved. <a href=\"%s\">View pricing table</a>."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:61
+msgid "Custom field updated."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:62
+msgid "Custom field deleted."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:63
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:66
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:70
+msgid "Pricing table saved."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:64
+#, php-format
+msgid "Pricing table restored to revision from %s"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:65
+#, php-format
+msgid "Pricing table saved. <a href=\"%s\">View pricing table</a>"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:68
+msgid "Pricing table submitted."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:69
+#, php-format
+msgid "Pricing table scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:69
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:114
+msgid "Pricing Table Name"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:115
+msgid "Shortcode"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/post-types.php:116
+msgid "Date"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/shortcodes.php:29
+msgid "Pricing table does not exist. Please check your shortcode."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/upgrade.php:7
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/upgrade.php:55
+#, php-format
+msgid ""
+"Thanks for using Easy Pricing Tables. If you like this plugin, please "
+"consider supporting continued development by <a href=\"%s\">purchasing the "
+"premium version</a>."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/upgrade.php:56
+msgid ""
+"Easy Pricing Tables Premium comes with 4 additional table designs, 369 icons "
+"and tons of customization options."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/upgrade.php:57
+#, php-format
+msgid "<a href=\"%s\">Click here to learn more...</a>"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/banner-metabox.php:2
+msgid "Do you like this plugin?"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/banner-metabox.php:2
+msgid "You will love Easy Pricing Tables Premium."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/banner-metabox.php:3
+msgid ""
+"It comes with 4 additional table designs, tooltips, icons, tons of "
+"customization options and much more. 60-day money back guarantee."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/banner-metabox.php:5
+msgid "Learn More"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/features-metabox.php:3
+msgid "Content"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/features-metabox.php:4
+msgid "Design"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/features-metabox.php:16
+msgid "Save & Preview"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/features-metabox.php:17
+msgid "Save"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/features-metabox.php:18
+msgid "Deploy (Get Shortcode)"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/features-metabox.php:26
+msgid ""
+"Copy the shortcode below and paste it wherever you want your pricing table "
+"to appear."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/spec.php:10
+msgid "Pricing Table Settings"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/spec.php:21
+msgid "Want More Design Options?"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:2
+msgid "Pricing Table Columns"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:3
+msgid "New Column"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:9
+msgid "Plan Name"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:10
+msgid "Enter your pricing plan - names here."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:12
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:29
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:38
+msgid "Best practice:"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:14
+msgid ""
+"Avoid generic names such as <em>Bronze</em>, <em>Silver</em> and <em>Gold</"
+"em>.<br/>"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:15
+msgid ""
+"Instead, choose aspirational names like <em>Personal</em>, <em>Small "
+"Business</em> and <em>Enterprise</em>.<br/><br/>"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:16
+msgid ""
+"Many people choose plans based on names, not features: A corporate buyer "
+"might choose <em>Enterprise</em> even though <em>Personal</em> might be "
+"sufficient for his use-case."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:21
+msgid "Pricing"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:22
+msgid "Enter your pricing options here."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:26
+msgid "Plan Features"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:26
+msgid "Features"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:27
+msgid "Enter your features here (one per line)."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:31
+msgid ""
+"Don't overwhelm users with too much content. Long pricing tables are "
+"confusing and difficult to read."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:35
+msgid "Button Text"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:35
+msgid "Call To Action Text"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:36
+msgid "Enter your call to action text here."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:40
+msgid "Here are some of the highest converting variations:"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:41
+msgid "Add To Cart"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:42
+msgid "Sign Up"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:43
+msgid "Sign Up Free"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:44
+msgid "Start Free Trial"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:47
+msgid "Button URL"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:47
+msgid "Call To Action URL"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:48
+msgid ""
+"Enter your call to action URL here. This is usually either a payment link (e."
+"g. PayPal) or a page where users can create an account."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:68
+msgid "Feature This Column"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:68
+msgid ""
+"Click this button to feature this column. A featured column appears bigger "
+"and includes the wording 'Most Popular'. You can only feature one column per "
+"table."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:68
+msgid "Feature"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:69
+msgid "Delete This Column"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:69
+msgid "Click this button to delete this column."
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:69
+msgid "Delete"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:72
+msgid "e.g. Small Business"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:78
+msgid "e.g. $49/mo"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:84
+msgid "e.g. 1 Website"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:85
+msgid "30,000 Monthly Visits"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:86
+msgid "Unlimited Data Transfer"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:87
+msgid "5GB Storage"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:95
+msgid "e.g. Start A Free Trial"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/tab-content.php:100
+msgid "e.g. http://example.com/buy"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:3
+msgid "General Settings"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:7
+msgid "Featured Label Text"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:10
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/table-generation/design1.php:128
+msgid "Most Popular"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:15
+msgid "Border Radius"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:26
+msgid "No Rounded Corners"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:40
+msgid "Enlarge Column on Hover"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:44
+msgid "Shake Button on Hover"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:49
+msgid "Font Sizes"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:53
+msgid "Featured Label Font Size"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:81
+msgid "Plan Name Font Size"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:109
+msgid "Price Font Size"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:137
+msgid "Bullet Item Font Size"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:165
+msgid "Button Font Size"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:194
+msgid "Unfeatured Columns Colors"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:198
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:271
+msgid "Background Colors"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:201
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:274
+msgid "Border Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:205
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:278
+msgid "Title Background Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:209
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:282
+msgid "Pricing Background Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:213
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:286
+msgid "Button Area Background Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:217
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:290
+msgid "Bullet Item Background Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:223
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:304
+msgid "Font Colors"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:226
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:307
+msgid "Title Font Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:230
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:311
+msgid "Pricing Font Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:234
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:315
+msgid "Feature Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:239
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:241
+msgid "Button Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:247
+msgid "Button Border Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:253
+msgid "Button Hover Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:259
+msgid "Button Font Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:266
+msgid "Featured Columns Colors"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:294
+msgid "Featured Label Border Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:298
+msgid "Featured Label Background Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:319
+msgid "Feature Label Font Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:324
+msgid "Button Color (Featured Column)"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:326
+msgid "Featured-Button Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:332
+msgid "Featured-Button Border Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:338
+msgid "Featured-Button Hover Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:344
+msgid "Featured-Button Font Color"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:351
+msgid "Advanced Settings"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:355
+msgid "Hide Empty Rows"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:359
+msgid "Hide Call To Action Buttons"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:363
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:367
+msgid "No Spacing Between Columns"
+msgstr ""
+
+#: /Users/mindo/Documents/git/wordpress/wp-content/plugins/easy-pricing-tables-free/includes/metaboxes/metabox-blocks/advanced-settings/simple-flat-settings.php:377
+msgid "Please upgrade to Easy Pricing Tables Premium to use this setting."
+msgstr ""

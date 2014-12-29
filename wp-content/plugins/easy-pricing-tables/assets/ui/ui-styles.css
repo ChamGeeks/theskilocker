@@ -1,0 +1,633 @@
+.my_meta_control .description
+{ display:none; }
+ 
+.my_meta_control label
+{ display:block; font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+ 
+.my_meta_control label span
+{ display:inline; font-weight:normal; }
+ 
+.my_meta_control span
+{ color:#999; display:block; }
+ 
+.my_meta_control textarea, .my_meta_control input[type='text']
+{ margin-bottom:3px; width:99%; }
+ 
+.my_meta_control h4
+{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+
+/* style for plan title and delete button */
+.plan-title #plan-name{
+  margin-top: 5px;
+}
+
+.plan-title button{
+  width: 49%;
+  float: right;
+}
+
+.plan-title a{
+  width: 49%;
+  float: left;
+  text-align: center;
+}
+
+.plan-title #delete-button {
+  margin-left: 1%;
+}
+
+/*
+.plan-title .feature-button:active {
+  background: yellow!important;
+}
+*/
+
+.ptp-title{
+  min-height: 27px;
+}
+
+.ptp-settings{
+  margin-top: 0px;
+
+}
+
+.plan-title{
+  padding: 10px;
+  border-style:solid;
+  border-width:1px;
+  border-color:#dfdfdf;
+  background-image:linear-gradient(to top,#ececec,#f9f9f9);
+
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.plan-settings{
+  padding: 10px;
+  border-style:solid;
+  border-width:1px;
+  border-color:#dfdfdf;
+  border-top: 0px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.explaination-title{
+  padding-top: 36px;
+  padding-bottom: 10px;
+}
+
+.explaination-settings{
+  padding-top: 10px;
+}
+
+.explaination-desc{
+  padding-top: 3px;
+}
+
+/* Style for "add new column" */
+.new-column{
+  border-style:dashed;
+  border-width:3px;
+  border-color:#dfdfdf;
+
+  /* 180 - 6(border)*/
+  width: 174px!important;
+
+  margin-right: 0px!important;
+
+  cursor: pointer;
+}
+
+.new-column p{
+  height: 298px;
+  margin: 0;
+
+  font-size: 1.4em;
+  color: #404040;
+  padding: 10px;
+  text-align: center;
+  line-height: 1.6em;
+
+  display:table-cell;
+  vertical-align:middle;
+
+  width: 174px!important;
+
+  border-top-righ-radius: 3px;
+}
+
+
+
+
+
+/** styles for drag and drop */
+.dragme {cursor: move;}
+
+
+/**
+ * Preview are styling
+ *
+.preview-meta
+{
+  background-color: white;
+}
+
+/* clear the default margin-bottom:6px; that messes up the preview *
+.ptp-col li
+{
+  margin-bottom: 0px;
+}
+*/
+
+/** float column layout **/
+.column {
+  width: 250px;
+  float: left;
+  margin-right: 10px;
+  cursor: move;
+}
+
+#wpa_loop-column {
+  /* We first create a flex layout context */
+  display: flex;
+  
+  /* Then we define the flow direction and if we allow the items to wrap */
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+  /* Then we define how is distributed the remaining space */
+  justify-content: flex-start;
+
+  display: flex;
+}
+
+.column li {
+  min-height: 27px;
+  vertical-align:middle;
+}
+
+.features {
+  /* 120px textare height - 3px top margin =117*/
+  height: 125px;
+}
+
+.features textarea {
+  resize: none;
+  max-height: 128px;
+}
+
+.zero
+{
+  width: 110px;
+}
+
+.clear {
+  clear: both;
+}
+
+
+/*** 
+Popover help text tooltip styling 
+***/
+.ptp-icon-help-circled:hover{
+  color:#428bca;
+}
+
+.ptp-icon-help-circled{
+  margin-left: 4px;
+  cursor: pointer;
+}
+
+/***
+** Popover Help text styles from bootstrap 
+***/
+
+.popover {
+  max-width: 400px;
+}
+
+.popover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1010;
+  display: none;
+  max-width: 276px;
+  padding: 1px;
+  text-align: left;
+  background-color: #ffffff;
+  background-clip: padding-box;
+  border: 1px solid #cccccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  white-space: normal;
+}
+.popover.top {
+  margin-top: -10px;
+}
+.popover.right {
+  margin-left: 10px;
+}
+.popover.bottom {
+  margin-top: 10px;
+}
+.popover.left {
+  margin-left: -10px;
+}
+.popover-title {
+  margin: 0;
+  padding: 8px 14px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 18px;
+  background-color: #f7f7f7;
+  border-bottom: 1px solid #ebebeb;
+  border-radius: 5px 5px 0 0;
+}
+.popover-content {
+  padding: 9px 14px;
+}
+.popover .arrow,
+.popover .arrow:after {
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+.popover .arrow {
+  border-width: 11px;
+}
+.popover .arrow:after {
+  border-width: 10px;
+  content: "";
+}
+.popover.top .arrow {
+  left: 50%;
+  margin-left: -11px;
+  border-bottom-width: 0;
+  border-top-color: #999999;
+  border-top-color: rgba(0, 0, 0, 0.25);
+  bottom: -11px;
+}
+.popover.top .arrow:after {
+  content: " ";
+  bottom: 1px;
+  margin-left: -10px;
+  border-bottom-width: 0;
+  border-top-color: #ffffff;
+}
+.popover.right .arrow {
+  top: 50%;
+  left: -11px;
+  margin-top: -11px;
+  border-left-width: 0;
+  border-right-color: #999999;
+  border-right-color: rgba(0, 0, 0, 0.25);
+}
+.popover.right .arrow:after {
+  content: " ";
+  left: 1px;
+  bottom: -10px;
+  border-left-width: 0;
+  border-right-color: #ffffff;
+}
+.popover.bottom .arrow {
+  left: 50%;
+  margin-left: -11px;
+  border-top-width: 0;
+  border-bottom-color: #999999;
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  top: -11px;
+}
+.popover.bottom .arrow:after {
+  content: " ";
+  top: 1px;
+  margin-left: -10px;
+  border-top-width: 0;
+  border-bottom-color: #ffffff;
+}
+.popover.left .arrow {
+  top: 50%;
+  right: -11px;
+  margin-top: -11px;
+  border-right-width: 0;
+  border-left-color: #999999;
+  border-left-color: rgba(0, 0, 0, 0.25);
+}
+.popover.left .arrow:after {
+  content: " ";
+  right: 1px;
+  border-right-width: 0;
+  border-left-color: #ffffff;
+  bottom: -10px;
+}
+
+.table-headline td{
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+#dh_ptp_design_tabs,
+#dh_ptp_metabox_tabs{
+  list-style: none;
+  
+}
+
+#dh_ptp_design_tabs li,
+#dh_ptp_metabox_tabs li{
+  float: left;
+  padding: 7px;
+  margin-bottom: 0px;
+}
+
+#dh_ptp_tabs_container #dh_ptp_metabox_tabs li {
+    border: 1px solid #ccc;
+    border-bottom: 0;
+    background: #e4e4e4;
+    color: #555;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 24px;
+    display: inline-block;
+    padding: 4px 14px 6px;
+    text-decoration: none;
+    margin: -4px 4px 0px 0;
+    float: left;
+    padding: 5px;
+}
+
+#dh_ptp_design_tabs a,
+#dh_ptp_metabox_tabs a{
+  text-decoration: none;
+  outline:0;
+  color:#333;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+#dh_ptp_design_tabs .ui-tabs-active a,
+#dh_ptp_metabox_tabs .ui-tabs-active a
+{ 
+color:#333;
+}
+
+#dh_ptp_metabox_tabs .ui-tabs-active
+{ 
+  border-color: #DFDFDF;
+  background-color: #FFF;
+  border-style: solid solid none;
+  border-width: 1px 1px 0;
+  margin-bottom: 0px;
+}
+
+.dh_ptp_tab
+{
+  border: 1px solid #ddd;
+  background-color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  /*border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;*/
+  border-top-right-radius: 3px;
+
+  margin-top: 0px;
+}
+
+.dh_ptp_tab_header{
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+/** Fix woothemes incompatibilty caused by jqueryUI tabs */
+#dh_ptp_tabs_container.ui-widget-content{
+  border: none;
+  font-size: 1em;
+  font-family: inherit;
+}
+#dh_ptp_metabox_tabs{
+  border: none;
+}
+.dh_ptp_tab.ui-widget-content{
+  border-color: rgb(221, 221, 221);
+  padding: 10px!important;
+}
+
+/** Styles for save buttons **/
+#ptp-save-buttons{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #D4D4D4;
+  border: 1px solid rgb(221, 221, 221);
+  border-top: none;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+/* style for move to trash button */
+/*.dh-ptp-alert{
+  color: white!important;
+  background-image: linear-gradient(to bottom,#e74c3c,#c0392b)!important;
+  text-shadow: none!important;
+}
+}
+.dh-ptp-preview{
+    color: white!important;
+    background-image: linear-gradient(to bottom,#2ecc71,#27ae60)!important;
+    text-shadow: none!important;
+}
+.dh-ptp-deploy{
+    color: white!important;
+    background-image: linear-gradient(to bottom,#e67e22,#d35400)!important;
+    text-shadow: none!important;
+}
+.dh-ptp-save{
+    color: white!important;
+    background-image: linear-gradient(to bottom,#2a95c5,#21759b)!important;
+    text-shadow: none!important;
+}
+*/
+
+/* color box css */
+/*
+    Colorbox Core Style:
+    The following CSS is consistent between example themes and should not be altered.
+*/
+#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+#cboxWrapper {max-width:none;}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative;}
+#cboxLoadedContent{overflow:auto; -webkit-overflow-scrolling: touch;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%; height:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+.cboxPhoto{float:left; margin:auto; border:0; display:block; max-width:none; -ms-interpolation-mode:bicubic;}
+.cboxIframe{width:100%; height:100%; display:block; border:0;}
+#colorbox, #cboxContent, #cboxLoadedContent{box-sizing:content-box; -moz-box-sizing:content-box; -webkit-box-sizing:content-box;}
+
+/*
+    User Style:
+    Change the following styles to modify the appearance of Colorbox.  They are
+    ordered & tabbed in a way that represents the nesting of the generated HTML.
+
+#cboxOverlay{background:rgb(255, 255, 255);}
+
+#cboxClose{position:relative; bottom:0; right:0; display:block; color:#444;}
+
+#cboxWrapper{
+    border: 1px solid;
+    width: 600px!important;
+    height: auto;
+}*/
+
+/*
+    User Style:
+    Change the following styles to modify the appearance of Colorbox.  They are
+    ordered & tabbed in a way that represents the nesting of the generated HTML.
+*/
+#cboxOverlay{background:#fff;}
+#colorbox{outline:0;}
+#cboxTopLeft{width:25px; height:25px; background:url(ui-components/colorbox/images/border1.png) no-repeat 0 0;}
+#cboxTopCenter{height:25px; background:url(ui-components/colorbox/images/border1.png) repeat-x 0 -50px;}
+#cboxTopRight{width:25px; height:25px; background:url(ui-components/colorbox/images/border1.png) no-repeat -25px 0;}
+#cboxBottomLeft{width:25px; height:25px; background:url(ui-components/colorbox/images/border1.png) no-repeat 0 -25px;}
+#cboxBottomCenter{height:25px; background:url(ui-components/colorbox/images/border1.png) repeat-x 0 -75px;}
+#cboxBottomRight{width:25px; height:25px; background:url(ui-components/colorbox/images/border1.png) no-repeat -25px -25px;}
+#cboxMiddleLeft{width:25px; background:url(ui-components/colorbox/images/border2.png) repeat-y 0 0;}
+#cboxMiddleRight{width:25px; background:url(ui-components/colorbox/images/border2.png) repeat-y -25px 0;}
+#cboxContent{background:#fff; overflow:hidden;}
+.cboxIframe{background:#fff;}
+#cboxError{padding:50px; border:1px solid #ccc;}
+#cboxLoadedContent{margin-bottom:20px;}
+#cboxTitle{position:absolute; bottom:0px; left:0; text-align:center; width:100%; color:#999;}
+#cboxCurrent{position:absolute; bottom:0px; left:100px; color:#999;}
+#cboxLoadingOverlay{background:#fff url(ui-components/colorbox/images/loading.gif) no-repeat 5px 5px;}
+
+/* these elements are buttons, and may need to have additional styles reset to avoid unwanted base styles */
+#cboxPrevious, #cboxNext, #cboxSlideshow, #cboxClose {border:0; padding:0; margin:0; overflow:visible; width:auto; background:none; }
+
+/* avoid outlines on :active (mouseclick), but preserve outlines on :focus (tabbed navigating) */
+#cboxPrevious:active, #cboxNext:active, #cboxSlideshow:active, #cboxClose:active {outline:0;}
+
+#cboxSlideshow{position:absolute; bottom:0px; right:42px; color:#444;}
+#cboxPrevious{position:absolute; bottom:0px; left:0; color:#444;}
+#cboxNext{position:absolute; bottom:0px; left:63px; color:#444;}
+#cboxClose{position:absolute; bottom:0; right:0; display:block; color:#444;}
+
+/*
+  The following fixes a problem where IE7 and IE8 replace a PNG's alpha transparency with a black fill
+  when an alpha filter (opacity change) is set on the element or ancestor element.  This style is not applied to or needed in IE9.
+  See: http://jacklmoore.com/notes/ie-transparency-problems/
+*/
+.cboxIE #cboxTopLeft,
+.cboxIE #cboxTopCenter,
+.cboxIE #cboxTopRight,
+.cboxIE #cboxBottomLeft,
+.cboxIE #cboxBottomCenter,
+.cboxIE #cboxBottomRight,
+.cboxIE #cboxMiddleLeft,
+.cboxIE #cboxMiddleRight {
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);
+}
+
+.settings-title {padding-right: 30px; vertical-align: top; padding-top:3px;}
+.ept-demo label {color: #888; font-weight: normal; cursor: default; margin: 0;}
+.ept-demo .wp-color-result {opacity: 0.7;}
+
+
+/*premium styles */
+.template-headline
+{
+  font-size: 1.2em!important;
+  text-align: center;
+  font-weight: bold;
+}
+.template-feature
+{
+  text-align: center;
+}
+
+.template-image{
+  width: 300px;
+}
+
+.template-selector{
+  float: left;
+  padding: 5px;
+  margin: 10px;
+  border: 3px dashed transparent;
+  opacity: 0.7;
+}
+
+.template-button{
+  width: auto;
+  /* 390 - 124 = 266 /2 = 133 
+  ** 350 -124 = 226 /2 = 113
+  ** 330 => 103
+  ** 315 => 95.5
+  */
+  margin-left: 88px!important;
+  margin-right: 88px!important;
+  margin-top: 10px!important;
+  margin-bottom: 15px!important;
+}
+
+.template-selected{
+  border-style:dashed;
+  border-width:3px;
+  border-color:#21759b;
+  opacity: 1;
+}
+
+.custom-css-setting-textbox {
+    opacity: 0.7;
+}
+
+.tt-banner-headline {
+    font-size: 17px;
+}
+.tt-centered{
+    text-align: center;
+}
+
+.tt-discount-text {
+    margin: 0;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+[id='1_dh_ptp_settings_metabox'] > h3, #dh_ptp_banner_review_box_metabox h3, #dh_ptp_banner_metabox h3 , #dh_ptp_banner_quick_link_metabox h3 {
+    color: #fff;
+    background-color: #333;
+}
+
+#dh_ptp_banner_review_box_metabox .button-large, #dh_ptp_banner_metabox .button-large , #dh_ptp_banner_quick_link_metabox .button-large {
+    font-size: 17px;
+    line-height: 30px;
+    height: 32px;
+}
+
+#dh_ptp_tabs_container #dh_ptp_metabox_tabs .ui-tabs-active, #dh_ptp_tabs_container #dh_ptp_metabox_tabs .dh_ptp_tab_header:hover {
+    border-bottom: 1px solid #f1f1f1;
+    background: #f1f1f1;
+    color: #000;
+}
+
+.settings-title {padding-right: 30px; vertical-align: top; padding-top:3px;}
+#dh_ptp_design_tabs_container input[type="text"] {margin-left: 0px;}
+
+.custom-css-setting-td {
+    max-width: 40em;
+    width: 40em;
+}
+
+.CodeMirror { border: 1px solid #ddd;height: 300px;background: #f8f8f8;}
+.CodeMirror pre span {
+     display: inline;
+}
