@@ -12,6 +12,7 @@
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link href="//fonts.googleapis.com/css?family=Raleway:300" rel="stylesheet" type="text/css">
 
     <?php wp_head(); ?>
 

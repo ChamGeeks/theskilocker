@@ -5,21 +5,25 @@
     <!-- footer -->
     <footer class="footer" role="contentinfo">
 
-      <h3>The Ski Locker</h3>
-      <p>
-        The Ski Locker was created to give creative people living and visiting Chamonix the chance to meet, ski and work together. Everyone is welcome, even if you just want to hang out.
-        <br>
-      </p>
-      <div class="social-media">
-        <a href="https://twitter.com/TheSki_locker" data-toggle="tooltip" title="" data-original-title="twitter">
-          twitter
-        </a>
-        <a href="http://www.facebook.com/theskilocker" data-toggle="tooltip" title="" data-original-title="facebook">
-          facebook
-        </a>
-        <a href="https://github.com/ChamGeeks" data-toggle="tooltip" title="" data-original-title="github">
-          github
-        </a>
+      <div class="footer-content">
+        <h3>The Ski Locker</h3>
+        <p>
+          <?php bloginfo('description'); ?>
+          <br>
+        </p>
+        <div class="social-media">
+          <a href="https://twitter.com/TheSki_locker" data-toggle="tooltip" title="" data-original-title="twitter">
+            twitter
+          </a>
+          |
+          <a href="http://www.facebook.com/theskilocker" data-toggle="tooltip" title="" data-original-title="facebook">
+            facebook
+          </a>
+          |
+          <a href="https://github.com/ChamGeeks" data-toggle="tooltip" title="" data-original-title="github">
+            github
+          </a>
+        </div>
       </div>
 
     </footer>

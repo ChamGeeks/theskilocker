@@ -35,16 +35,33 @@ img.alignleft { margin: 5px 15px 15px 0; }
 .reset-box { padding: 0; margin: 0; }
 
 
+body { font-size: 16px; font-family: 'Raleway', Arial, Helvetica, sans-serif; }
+
+h1, h2, h3, h4, h5, h6 { color: #000; font-weight: bold; }
 h1 {
   font-size: 60px;
   font-weight: normal;
   text-align: center;
   margin: 0 0 30px;
 }
-h2 { margin: 0 0 20px; }
+h2 { margin: 0 0 20px; border-bottom: 1px solid #ddd; font-size: 40px; }
 h3 { margin: 0 0 10px; }
 h4 { margin: 0 0 10px; }
 h5 { margin: 0 0 10px; }
+
+img { max-width: 100%; height: auto; }
+
+input, textarea {
+  width: 100%; padding: 5px 7px; border: 1px solid #ddd; border-radius: 4px;
+}
+textarea { height: 150px; }
+
+input[type="submit"], button { background: #26B864; color: #fff; border-color: #069844; }
+input[type="submit"]:hover, button:hover { background: #069844; }
+
+.form-field { margin: 0 0 20px; }
+
+
 
 .container {
   padding-bottom: 50px;
@@ -64,3 +81,14 @@ h5 { margin: 0 0 10px; }
   background: #F4F4F4;
   text-align: center;
 }
+.footer-content { max-width: 740px; margin: 0 auto; }
+
+
+
+.posts-list-item { padding: 0 0 0 140px; margin: 0 0 40px; }
+.post-thumbnail { float: left; margin: 10px 0 0 -140px; border: 1px solid #ddd; border-radius: 4px; }
+.post-thumbnail img { border-radius: 4px; }
+.post-title { margin: 0 0 5px; }
+.post-meta { font-size: 12px; color: #777; margin: 0 0 15px; }
+
+.single-post-content { padding: 0 0 10px; border-bottom: 1px solid #ddd; margin: 0 0 20px; }
