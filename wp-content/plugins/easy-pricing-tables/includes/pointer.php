@@ -118,12 +118,12 @@ function dh_ptp_mailing_list_pointer()
     // Buttons
     $button_1_title = __('No, thanks', PTP_LOC);
     $button_1_fn    = sprintf($ajax, 'no');
-    $button_2_title = __("Let&#39;s do it!", PTP_LOC);
+    $button_2_title = __("FREE DOWNLOAD", PTP_LOC);
     $button_2_fn    = sprintf($ajax, 'yes');
     
     // Content
-    $content  = '<h3>' . __('Pricing Table Crash Course', PTP_LOC) . '</h3>';
-    $content .= '<p>' . __("Instead of watching 99% of your visitors bounce, imagine you could increase your pricing table&#39;s conversion rate and make more money. Find out how in this ridiculously actionable (and totally free) 5-part email course.", PTP_LOC) . '</p>';
+    $content  = '<h3>' . __('How To Easily Get More Sales', PTP_LOC) . '</h3>';
+    $content .= '<p>' . __("Instead of watching 99% of your visitors bounce, imagine you could increase your conversion rate and make more money. Find out how in our free guide on how to easily get more sales (by building pricing tables that convert).", PTP_LOC) . '</p>';
     $content .= '<p>' . '<input type="text" name="ept_email" id="ept_email" value="' . $current_user->user_email . '" style="width: 100%"/>' . '</p>';
 	
     // Options

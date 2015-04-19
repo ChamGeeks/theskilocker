@@ -13,24 +13,13 @@ function dh_ptp_tracking_deploy()
         $columns = count($meta['column']);
         
         if (function_exists('dh_ptp_track_event')) {
-            dh_ptp_track_event('Deploy clicked', array('Number of columns' => $columns));
+            dh_ptp_track_event('Deploy clicked', array('Number of columns' => $columns , 'type' => 'table'));
         }
     }
     
     exit();
 }
 add_action('wp_ajax_dh_ptp_tracking_deploy', 'dh_ptp_tracking_deploy');
-
-// Banner
-function dh_ptp_tracking_banner()
-{
-    if (function_exists('dh_ptp_track_event') && get_option('dh_ptp_allow_tracking') == 'yes') {
-        dh_ptp_track_event("Sidebar ad button clicked", array("Ad version" =>"1"));
-    }
-    
-    exit();    
-}
-add_action('wp_ajax_dh_ptp_tracking_banner', 'dh_ptp_tracking_banner');
 
 // Plugin activated
 function dh_ptp_plugin_activated()
@@ -39,7 +28,7 @@ function dh_ptp_plugin_activated()
         dh_ptp_track_event('Plugin activated');
     }
 }
-register_activation_hook('easy-pricing-tables-free/pricing-table-plugin.php', 'dh_ptp_plugin_activated');
+register_activation_hook(PTP_PLUGIN_PATH.'/pricing-table-plugin.php', 'dh_ptp_plugin_activated');
 
 // Plugin deactivated
 function dh_ptp_plugin_deactivated()
@@ -48,7 +37,7 @@ function dh_ptp_plugin_deactivated()
         dh_ptp_track_event('Plugin deactivated');
     }
 }
-register_deactivation_hook('easy-pricing-tables-free/pricing-table-plugin.php', 'dh_ptp_plugin_deactivated');
+register_deactivation_hook(PTP_PLUGIN_PATH.'/pricing-table-plugin.php', 'dh_ptp_plugin_deactivated');
 
 // Pricing Table Crash Course
 function dh_ptp_crash_course($var)

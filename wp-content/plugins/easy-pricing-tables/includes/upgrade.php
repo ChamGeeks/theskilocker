@@ -15,7 +15,7 @@ function dh_ptp_upgrade_ob_start() {
 
 function dh_ptp_upgrade_to_premium()
 {
-    wp_redirect('https://fatcatapps.com/easypricingtables/?utm_campaign=ept-left-menu&utm_source=free-plugin&utm_medium=referral&utm_content=v1', 301);
+    wp_redirect('https://fatcatapps.com/easypricingtables/?utm_campaign=wp%2Bsubmenu&utm_source=Easy%2BPricing%2BTables%2BFree&utm_medium=plugin&utm_content=v1', 301);
     exit();
 }
 
@@ -31,10 +31,10 @@ function dh_ptp_upgrade_to_premium_menu_js()
     </script>
     <style>
         a[href="edit.php?post_type=easy-pricing-table&page=easy-pricing-tables-upgrade"] {
-            color: #6bbc5b !important;
+            color: #ee6800 !important;
         }
         a[href="edit.php?post_type=easy-pricing-table&page=easy-pricing-tables-upgrade"]:hover {
-            color: #7ad368 !important;
+            color: #C65700 !important;
         }
     </style>
     <?php 

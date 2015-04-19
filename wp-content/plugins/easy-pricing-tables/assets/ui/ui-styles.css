@@ -631,3 +631,14 @@ color:#333;
 .CodeMirror pre span {
      display: inline;
 }
+
+.button.ept-cta{
+  color:white;background-color:#ee6800;border-color:#c0392b;"
+  -webkit-box-shadow: inset 0 1px 0 rgba(245,166,145,48),0 1px 0 rgba(0,0,0,.15);
+  box-shadow: inset 0 1px 0 rgba(245,166,145,48),0 1px 0 rgba(0,0,0,.15);
+}
+.button.ept-cta:hover{
+  color:white;background-color:#C65700;"
+  -webkit-box-shadow: inset 0 1px 0 rgba(245,166,145,48),0 1px 0 rgba(0,0,0,.15);
+  box-shadow: inset 0 1px 0 rgba(245,166,145,48),0 1px 0 rgba(0,0,0,.15);
+}
