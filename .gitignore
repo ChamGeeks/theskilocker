@@ -3,3 +3,5 @@ vendor/
 wp-config.php
 wp-content/uploads
 woocommerce-bookings
+wp-content/plugins/woocommer*
+virtue_premium
